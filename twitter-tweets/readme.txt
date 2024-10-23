@@ -2,9 +2,9 @@
 Contributors: weblizar
 Donate link: https://www.weblizar.com/
 Tags: twitter, tweets, twitter tweets, twitter widget, twitter wordPress plugin, twitter feed
-Requires at least: 3.8
-Tested up to: 6.5
-Stable tag: 2.2.1
+Requires at least: 7.4
+Tested up to: 6.6.2
+Stable tag: 2.2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -112,6 +112,11 @@ Please use WordPress support forum to ask any query regarding any issue.
 == Change-log ==
 
 For more information, see Weblizar(https://weblizar.com/)
+
+= 2.2.2 =[23-10-2024]
+Tested on WordPress up to: 6.6.2
+Tested on PHP up to: 8.3.12
+
 = 2.2.1 =[21-03-2024]
 * Tested upto WordPress 6.5
 * Tested upto php 8.3.3
