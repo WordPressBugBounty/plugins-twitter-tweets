@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Customize Feeds for Twitter
- * Version: 2.2.3
+ * Version: 2.2.4
  * Description: Customize Feeds for Twitter plugin for WordPress. You can use this to display real time Twitter feeds on any where on your webiste by using shortcode or widgets
  * Author: Weblizar
  * Author URI: https://www.weblizar.com/

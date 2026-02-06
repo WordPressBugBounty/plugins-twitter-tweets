@@ -113,6 +113,9 @@ Please use WordPress support forum to ask any query regarding any issue.
 
 For more information, see Weblizar(https://weblizar.com/)
 
+= 2.2.4 =[12-07-2025]
+Tested on WordPress up to: 6.8.1
+
 = 2.2.3 =[17-05-2025]
 Tested on WordPress up to: 6.8
 
