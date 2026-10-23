@@ -1,10 +1,10 @@
 === Customize Feeds for Twitter ===
 Contributors: weblizar
 Donate link: https://www.weblizar.com/
-Tags: twitter, tweets, twitter tweets, twitter widget, twitter wordPress plugin, twitter feed
+Tags: twitter, tweets, twitter widget, twitter wordPress plugin, twitter feed
 Requires at least: 7.4
-Tested up to: 6.8
-Stable tag: 2.2.3
+Tested up to: 6.9
+Stable tag: 2.2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -113,8 +113,9 @@ Please use WordPress support forum to ask any query regarding any issue.
 
 For more information, see Weblizar(https://weblizar.com/)
 
-= 2.2.4 =[12-07-2025]
-Tested on WordPress up to: 6.8.1
+= 2.2.4 =[12-12-2025]
+* Tested on WordPress up to: 6.9
+* Tested upto php 8.4
 
 = 2.2.3 =[17-05-2025]
 Tested on WordPress up to: 6.8
